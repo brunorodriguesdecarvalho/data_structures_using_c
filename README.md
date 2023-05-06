@@ -5,9 +5,9 @@ A repository to save my learning about data structures using C programming langu
 ## File Stucture
 
     1 -> Hello World (to recap basic C program)
-    2 -> Sample Array (basic)
-    3 -> Sample Linked List (basic)
-    4 -> Sample Stack (basic) 
-    5 -> Sample Queue (basic)
-    6 -> Sample Tree (basic)
-    7 -> Sample Graph (basic)
+    2 -> Sample Array
+    3 -> Sample Linked List
+    4 -> Sample Stack
+    5 -> Sample Queue
+    6 -> Sample Tree
+    7 -> Sample Graph
